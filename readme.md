@@ -1,6 +1,6 @@
 ## Re-ducks パターン
 
-###参考
+### 参考
 
 - [Typescript と React Hooks で Redux はもうしんどくない](https://qiita.com/ky7ieee/items/b3f43ecc497b9115449a)
 - [公式リポジトリ](https://github.com/alexnm/re-ducks)
